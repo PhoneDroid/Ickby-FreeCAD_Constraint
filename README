@@ -12,8 +12,8 @@ FreeCAD is based on OpenCasCade, a powerful geometry kernel, features an Open In
 The interface is built with Qt. FreeCAD runs exactly the same way on Windows, Mac OSX, BSD and
 Linux platforms.
 
-Home page:                             http://www.freecadweb.org
-Documentation wiki:                    http://www.freecadweb.org/wiki
+Home page:                             https://freecad.org
+Documentation wiki:                    https://wiki.freecad.org
 Forum:                                 http://sourceforge.net/apps/phpbb/free-cad/
 Bug tracker:                           http://sourceforge.net/apps/mantisbt/free-cad/
 Git repository:                        http://sourceforge.net/p/free-cad/code/ci/master/tree/
@@ -22,7 +22,7 @@ Installing
 ==========
 
 Precompiled (installable) packages are usually available to you from several sources and are
-described on the FreeCAD download page: http://www.freecadweb.org/wiki/index.php?title=Download
+described on the FreeCAD download page: https://wiki.freecad.org/index.php?title=Download
 
 Compiling
 =========
@@ -38,9 +38,9 @@ Note that autotools build system can still be used but will be obsoleted soon.
 
 The pages below contain up-to-date build instructions:
 
-For Linux:   http://www.freecadweb.org/wiki/index.php?title=CompileOnUnix
-For windows: http://www.freecadweb.org/wiki/index.php?title=CompileOnWindows
-For Mac OSX: http://www.freecadweb.org/wiki/index.php?title=CompileOnMac
+For Linux:   https://wiki.freecad.org/index.php?title=CompileOnUnix
+For windows: https://wiki.freecad.org/index.php?title=CompileOnWindows
+For Mac OSX: https://wiki.freecad.org/index.php?title=CompileOnMac
 
 In this folder you will also find additional README files, specific for each platform.
 
@@ -50,11 +50,11 @@ Usage
 The FreeCAD documentation wiki contains sections for each category of users, and a manual,
 which is a compilation of the most useful articles of the wiki:
 
-For users: General FreeCAD usage: http://www.freecadweb.org/wiki/index.php?title=User_hub
-For power-users: Python scripting: http://www.freecadweb.org/wiki/index.php?title=Power_users_hub
-For developers: C++ FreeCAD development: http://www.freecadweb.org/wiki/index.php?title=Developer_hub
+For users: General FreeCAD usage: https://wiki.freecad.org/index.php?title=User_hub
+For power-users: Python scripting: https://wiki.freecad.org/index.php?title=Power_users_hub
+For developers: C++ FreeCAD development: https://wiki.freecad.org/index.php?title=Developer_hub
 
-The FreeCAD manual: http://www.freecadweb.org/wiki/index.php?title=Online_Help_Toc
+The FreeCAD manual: https://wiki.freecad.org/index.php?title=Online_Help_Toc
 
 
 

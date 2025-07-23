@@ -35,4 +35,4 @@ This is the complete python API reference of the FreeCAD appication
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* `FreeCAD homepage <http://www.freecadweb.org>`_
+* `FreeCAD homepage <https://freecad.org>`_

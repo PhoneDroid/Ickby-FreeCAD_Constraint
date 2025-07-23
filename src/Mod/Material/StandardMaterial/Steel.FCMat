@@ -1,7 +1,7 @@
 ; Standard Steel Material
 ; (c) 2013 Juergen Riegel (CC-BY 3.0)
 ; information about the content of such cards you can find here:
-; http://www.freecadweb.org/wiki/index.php?title=Material
+; https://wiki.freecad.org/index.php?title=Material
 
 [General]
 ; General name, need to be the same as the file name

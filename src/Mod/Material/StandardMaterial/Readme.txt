@@ -1,6 +1,6 @@
 This is the FreeCAD standard material library. Its intended to gather the most commen Material definitions. 
 How to do a description is explained here:
-http://www.freecadweb.org/wiki/index.php?title=Material
+https://wiki.freecad.org/index.php?title=Material
 
 To make the material description usefull for a lot of application only files with the (CC BY 3.0) license
 will be accepted into the FreeCAD source distribution. For more detail about the license see here:
